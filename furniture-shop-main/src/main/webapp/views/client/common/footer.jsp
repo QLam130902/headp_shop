@@ -11,7 +11,7 @@
               </svg>
             </h2>
             <div class="footer__widget--inner">
-              <a class="footer__logo" href="<%=request.getContextPath()%>/home"><img src="<%=request.getContextPath()%>/assets/client/img/logo/nav-log.webp" alt="footer-logo"></a>
+              <a class="footer__logo" href="<%=request.getContextPath()%>/home"><img src="<%=request.getContextPath()%>/assets/client/img/logo/home.webp" alt="footer-logo"></a>
               <p class="footer__widget--desc">Website kinh doanh các sản phẩm nội thất<br> FurSshop</p>
               <div class="footer__social">
                 <ul class="social__shear d-flex">

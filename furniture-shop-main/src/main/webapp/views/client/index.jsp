@@ -29,10 +29,10 @@
                             <div class="swiper-slide ">
                                 <div class="hero__slider3--items hero__slider--bg3 slider1">
                                     <div class="slider__content3 padding-left">
-                                        <h2 class="slider__content3--maintitle">Make Beautiful Home <br>
-                                            With Moon Sofa</h2>
-                                        <p class="slider__content3--desc mb-35">Great furniture can bring beauty at your home, <br>
-                                            So buy our popular and stylish furniture. </p>
+                                        <h2 class="slider__content3--maintitle">Make Beautiful Vibe <br>
+                                            With Impressive Sound</h2>
+                                        <p class="slider__content3--desc mb-35">Discover an unparalleled audio experience. <br>
+                                        Hear every detail with our premium-grade headphones.</p>
                                         <a class="slider__content3--btn primary__btn btn__style3" href="<%=request.getContextPath()%>/products" rel="nofollow">Order Now</a>
                                     </div>
                                 </div>
@@ -40,10 +40,10 @@
                             <div class="swiper-slide ">
                                 <div class="hero__slider3--items hero__slider--bg3 slider2">
                                     <div class="slider__content3 padding-left text-center">
-                                        <h2 class="slider__content3--maintitle">Make Beautiful Home <br>
-                                            With Moon Sofa</h2>
-                                        <p class="slider__content3--desc color-black mb-35">Great furniture can bring beauty at your home, <br>
-                                            So buy our popular and stylish furniture. </p>
+                                        <h2 class="slider__content3--maintitle">Make Beautiful Vibe <br>
+                                            With Impressive Sound</h2>
+                                        <p class="slider__content3--desc color-black mb-35">Discover an unparalleled audio experience. <br>
+                                        Hear every detail with our premium-grade headphones. </p>
                                         <a class="slider__content3--btn primary__btn btn__style3" href="<%=request.getContextPath()%>/products" rel="nofollow">Order Now</a>
                                     </div>
                                 </div>
@@ -51,10 +51,10 @@
                             <div class="swiper-slide ">
                                 <div class="hero__slider3--items hero__slider--bg3 slider3">
                                     <div class="slider__content3 padding-left">
-                                        <h2 class="slider__content3--maintitle">Make Beautiful Home <br>
-                                            With Moon Sofa</h2>
-                                        <p class="slider__content3--desc mb-35">Great furniture can bring beauty at your home, <br>
-                                            So buy our popular and stylish furniture. </p>
+                                        <h2 class="slider__content3--maintitle">Make Beautiful Vibe <br>
+                                            With Impressive Sound</h2>
+                                        <p class="slider__content3--desc mb-35">Discover an unparalleled audio experience. <br>
+                                        Hear every detail with our premium-grade headphones.</p>
                                         <a class="slider__content3--btn primary__btn btn__style3" href="<%=request.getContextPath()%>/products" rel="nofollow">Order Now</a>
                                     </div>
                                 </div>
@@ -99,8 +99,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-7 col-md-7">
                     <div class="choiceus__banner position__relative d-flex">
-                        <a class="choiceus__banner--thumbnail one display-block" href="<%=request.getContextPath()%>/products" rel="nofollow"><img class="choiceus__banner--thumbnail__img display-block" src="<%=request.getContextPath()%>/assets/client/img/banner/banner23.webp" alt="banner-img"></a>
-                        <a class="choiceus__banner--thumbnail two display-block" href="<%=request.getContextPath()%>/products" rel="nofollow"><img class="choiceus__banner--thumbnail__img two display-block" src="<%=request.getContextPath()%>/assets/client/img/banner/banner24.webp" alt="banner-img"></a>
+                        <a class="choiceus__banner--thumbnail one display-block" href="<%=request.getContextPath()%>/products" rel="nofollow"><img class="choiceus__banner--thumbnail__img display-block" src="<%=request.getContextPath()%>/assets/client/img/banner/display.jpg" alt="banner-img"></a>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-5">

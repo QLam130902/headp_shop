@@ -11,7 +11,7 @@
           </a>
         </div>
         <div class="main__logo">
-          <a class="main__logo--link" href="<%=request.getContextPath()%>/home"><img class="main__logo--img" src="<%=request.getContextPath()%>/assets/client/img/logo/nav-log.webp" alt="logo-img"></a>
+          <a class="main__logo--link" href="<%=request.getContextPath()%>/home"><img class="main__logo--img" src="<%=request.getContextPath()%>/assets/client/img/logo/home.webp" alt="logo-img"></a>
         </div>
         <div class="header__menu d-none d-lg-block">
           <nav class="header__menu--navigation">
